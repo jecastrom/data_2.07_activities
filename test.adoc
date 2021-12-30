@@ -2,7 +2,7 @@
 ifdef::env-github[]
 :idprefix:
 :idseparator: -
-ifndef::env-github[:icons: font]
+
 :toc-ref: {user-ref}/#table-of-contents
 :table-caption!:
 :status:
@@ -33,18 +33,7 @@ ifdef::env-site,env-yard[]
 :url-rel-file-base: {url-repo}/blob/HEAD/
 :url-rel-tree-base: {url-repo}/tree/HEAD/
 endif::[]
-:url-changelog: {url-rel-file-base}CHANGELOG.adoc
-:url-contribute: {url-rel-file-base}CONTRIBUTING.adoc
-:url-license: {url-rel-file-base}LICENSE
-:url-tests: {url-rel-tree-base}test
-:url-discuss: https://discuss.asciidoctor.org
-:url-chat: https://asciidoctor.zulipchat.com
-:url-rubygem: https://rubygems.org/gems/asciidoctor
-:url-what-is-asciidoc: {url-docs}/asciidoctor/latest/#relationship-to-asciidoc
-:url-install-docker: https://github.com/asciidoctor/docker-asciidoctor
-:url-opal: https://opalrb.com
-:url-tilt: https://github.com/rtomayko/tilt
-:url-ruby: https://www.ruby-lang.org
+ifndef::env-github[:icons: font]
 :toc:
 :toc-ref: {user-ref}/#table-of-contents
 :toc-title: Activities | Description:
