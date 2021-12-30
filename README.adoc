@@ -73,23 +73,13 @@ In this activity, we will be using the `bank` database.
 
 === Find the transactions (type, operation) with a mean amount greater than 10000.
 
+https://github.com/stars/jecastrom/lists/sql-ironhack-labs[Name of the script file]
 
+====
+''''
+====
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://github.com/stars/jecastrom/lists/sql-ironhack-labs[SQL Lab intro script only]
+Back to <<Activity:>>
 
 [,sql]
 ----
@@ -122,5 +112,5 @@ A bold statement.footnoteref:[disclaimer,These opinions are my own.]
 
 
 
-Back to <<Activity:>>
+
 

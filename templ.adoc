@@ -1,4 +1,4 @@
-= SQL Activity xxxx | x.xx
+= SQL Activity 1 to 3 | 2.07
 ifdef::env-github[]
 :sectnums:
 :imagesdir:
@@ -55,34 +55,10 @@ toc::[]
 
 
 == Activity:
-In this activity, we will be using the `bank` database.
-
-=== Find out how many cards of each type have been issued.
-
-=== Find out how many customers there are by the district.
-
-=== Find out average transaction value by type.
 
 == Activity:
 
-=== As you might have seen in the previous query, there are 19 rows returned by this query. But there a few places where the column ``k_symbol`` is an empty string. Your task it to use a filter to remove those rows of data. After the filter gets applied, you would see that the number of rows have reduced.
-
 == Activity:
-=== Find the districts with more than 100 clients. (Keep using the bank database.)
-
-
-=== Find the transactions (type, operation) with a mean amount greater than 10000.
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -90,6 +66,12 @@ In this activity, we will be using the `bank` database.
 
 
 https://github.com/stars/jecastrom/lists/sql-ironhack-labs[SQL Lab intro script only]
+
+====
+''''
+====
+
+Back to <<Activity:>>
 
 [,sql]
 ----
@@ -122,4 +104,3 @@ A bold statement.footnoteref:[disclaimer,These opinions are my own.]
 
 
 
-Back to <<Lab | Description:>>
