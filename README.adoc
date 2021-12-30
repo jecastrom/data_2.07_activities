@@ -1,6 +1,6 @@
 = SQL Activity 1 to 3 | 2.07
 :toc:
-:toc-title: Lab Content
+:toc-title: Activities | Description:
 :toc-placement!:
 ifdef::env-github[]
 :imagesdir:
@@ -24,7 +24,7 @@ image::https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a
 
 toc::[]
 
-= Activities | Description:
+
 
 == Activity 1:
 In this activity, we will be using the `bank` database.
