@@ -2,7 +2,6 @@
 ifdef::env-github[]
 :idprefix:
 :idseparator: -
-:source-language: ruby
 ifndef::env-github[:icons: font]
 :toc-ref: {user-ref}/#table-of-contents
 :table-caption!:
