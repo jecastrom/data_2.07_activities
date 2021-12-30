@@ -4,6 +4,7 @@
 :source-language: ruby
 ifndef::env-github[:icons: font]
 ifdef::env-github[]
+:table-caption!:
 :status:
 :caution-caption: :fire:
 :important-caption: :heavy_exclamation_mark:
