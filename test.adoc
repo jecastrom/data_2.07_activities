@@ -42,12 +42,9 @@ endif::[]
 :toc-title: Activities | Description:
 :toc-placement!:
 
-toc::[]
 
-[NOTE]
-====
-A sample note admonition.
-====
+
+
  
 TIP: It works!
  
@@ -88,7 +85,7 @@ image:https://img.shields.io/badge/rubydoc.info-{release-version}-blue.svg[libra
 image:https://github.com/asciidoctor/asciidoctor/workflows/CI/badge.svg[Build Status (GitHub Actions),link={url-repo}/actions]
 image:https://img.shields.io/badge/zulip-join_chat-brightgreen.svg[Project Chat (Zulip),link={url-chat}]
 endif::[]
-
+toc::[]
 == Sponsors
 
 We want to recognize our {url-project}/supporters[sponsors] for their commitment to improving the state of technical documentation by supporting this project.
