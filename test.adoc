@@ -1,21 +1,44 @@
-= Asciidoctor
+= SQL Activity 1 to 3 | 2.07
 ifdef::env-github[]
+:sectnums:
+:imagesdir:
+ https://gist.githubusercontent.com/path/to/gist/revision/dir/with/all/images
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+:experimental:
+:table-caption!:
+:example-caption!:
+:figure-caption!:
 :idprefix:
 :idseparator: -
+:linkattrs:
+:fontawesome-ref: http://fortawesome.github.io/Font-Awesome
+:icon-inline: {user-ref}/#inline-icons
+:icon-attribute: {user-ref}/#size-rotate-and-flip
+:video-ref: {user-ref}/#video
+:checklist-ref: {user-ref}/#checklists
+:list-marker: {user-ref}/#custom-markers
+:list-number: {user-ref}/#numbering-styles
+:imagesdir-ref: {user-ref}/#imagesdir
+:image-attributes: {user-ref}/#put-images-in-their-place
 :toc-ref: {user-ref}/#table-of-contents
-:table-caption!:
-:status:
-:caution-caption: :fire:
-:important-caption: :heavy_exclamation_mark:
-:note-caption: :information_source:
-:tip-caption: :bulb:
-:warning-caption: :warning:
+:para-ref: {user-ref}/#paragraph
+:literal-ref: {user-ref}/#literal-text-and-blocks
+:admon-ref: {user-ref}/#admonition
+:bold-ref: {user-ref}/#bold-and-italic
+:quote-ref: {user-ref}/#quotation-marks-and-apostrophes
+:sub-ref: {user-ref}/#subscript-and-superscript
+:mono-ref: {user-ref}/#monospace
+:css-ref: {user-ref}/#custom-styling-with-attributes
+:pass-ref: {user-ref}/#passthrough-macros
 endif::[]
-ifndef::env-github[:icons: font]
-ifdef::env-site[:url-project: link:]
-ifdef::env-site,env-yard[]
+ifndef::env-github[]
+:imagesdir: ./
+endif::[]
 :toc:
-:toc-ref: {user-ref}/#table-of-contents
 :toc-title: Activities | Description:
 :toc-placement!:
 
