@@ -1,9 +1,6 @@
 = SQL Activity 1 to 3 | 2.07
-:sectnums:
-:toc:
-:toc-title: Activities | Description:
-:toc-placement!:
 ifdef::env-github[]
+:sectnums:
 :imagesdir:
  https://gist.githubusercontent.com/path/to/gist/revision/dir/with/all/images
 :tip-caption: :bulb:
@@ -11,10 +8,6 @@ ifdef::env-github[]
 :important-caption: :heavy_exclamation_mark:
 :caution-caption: :fire:
 :warning-caption: :warning:
-endif::[]
-ifndef::env-github[]
-:imagesdir: ./
-endif::[]
 :experimental:
 :table-caption!:
 :example-caption!:
@@ -43,7 +36,13 @@ endif::[]
 :mono-ref: {user-ref}/#monospace
 :css-ref: {user-ref}/#custom-styling-with-attributes
 :pass-ref: {user-ref}/#passthrough-macros
-
+endif::[]
+ifndef::env-github[]
+:imagesdir: ./
+endif::[]
+:toc:
+:toc-title: Activities | Description:
+:toc-placement!:
 
 image::https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png[width=70]
                                                                          
