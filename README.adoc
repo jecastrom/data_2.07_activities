@@ -122,7 +122,5 @@ A bold statement.footnoteref:[disclaimer,These opinions are my own.]
 
 
 
-Back to <<Lab | Description:>>
+Back to <SQL Activity 1 to 3 | 2.07>>
 
-
-=== Footer
