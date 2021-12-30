@@ -2,7 +2,6 @@
 ifdef::env-github[]
 :idprefix:
 :idseparator: -
-
 :toc-ref: {user-ref}/#table-of-contents
 :table-caption!:
 :status:
@@ -12,28 +11,9 @@ ifdef::env-github[]
 :tip-caption: :bulb:
 :warning-caption: :warning:
 endif::[]
-:release-version: 2.0.16
-:url-org: https://github.com/asciidoctor
-:url-repo: {url-org}/asciidoctor
-:url-asciidoctorj: {url-org}/asciidoctorj
-:url-asciidoctorjs: {url-org}/asciidoctor.js
-:url-gradle-plugin: {url-org}/asciidoctor-gradle-plugin
-:url-maven-plugin: {url-org}/asciidoctor-maven-plugin
-:url-asciidoclet: {url-org}/asciidoclet
-:url-project: https://asciidoctor.org
-ifdef::env-site[:url-project: link:]
-:url-docs: https://docs.asciidoctor.org
-:url-news: {url-project}/news
-:url-manpage: {url-project}/man/asciidoctor
-:url-issues: {url-repo}/issues
-:url-contributors: {url-repo}/graphs/contributors
-:url-rel-file-base: link:
-:url-rel-tree-base: link:
-ifdef::env-site,env-yard[]
-:url-rel-file-base: {url-repo}/blob/HEAD/
-:url-rel-tree-base: {url-repo}/tree/HEAD/
-endif::[]
 ifndef::env-github[:icons: font]
+ifdef::env-site[:url-project: link:]
+ifdef::env-site,env-yard[]
 :toc:
 :toc-ref: {user-ref}/#table-of-contents
 :toc-title: Activities | Description:
