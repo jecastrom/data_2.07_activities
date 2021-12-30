@@ -43,7 +43,7 @@ endif::[]
 :mono-ref: {user-ref}/#monospace
 :css-ref: {user-ref}/#custom-styling-with-attributes
 :pass-ref: {user-ref}/#passthrough-macros
-:mailinglist: http://discuss.asciidoctor.org
+
 
 
 
