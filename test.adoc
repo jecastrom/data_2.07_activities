@@ -1,5 +1,5 @@
 = Asciidoctor
-Dan Allen <https://github.com/mojavelinux[@mojavelinux]>; Sarah White <https://github.com/graphitefriction[@graphitefriction]>
+
 // settings:
 :idprefix:
 :idseparator: -
@@ -48,12 +48,9 @@ endif::[]
 :url-opal: https://opalrb.com
 :url-tilt: https://github.com/rtomayko/tilt
 :url-ruby: https://www.ruby-lang.org
-// images:
-:image-url-screenshot: https://cdn.jsdelivr.net/gh/asciidoctor/asciidoctor/screenshot.png
 :toc:
 :toc-title: Activities | Description:
 :toc-placement!:
-
 toc::[]
 
 [NOTE]
