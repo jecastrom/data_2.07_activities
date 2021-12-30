@@ -15,8 +15,6 @@ ifdef::env-github[]
 :idprefix:
 :idseparator: -
 :linkattrs:
-:docref: http://asciidoctor.org/docs
-:user-ref: {docref}/user-manual
 :fontawesome-ref: http://fortawesome.github.io/Font-Awesome
 :icon-inline: {user-ref}/#inline-icons
 :icon-attribute: {user-ref}/#size-rotate-and-flip

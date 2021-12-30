@@ -2,7 +2,7 @@
 ifdef::env-github[]
 :idprefix:
 :idseparator: -
-
+ifndef::env-github[:icons: font]
 :toc-ref: {user-ref}/#table-of-contents
 :table-caption!:
 :status:
