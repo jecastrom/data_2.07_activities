@@ -8,7 +8,7 @@ ifndef::env-github[:icons: font]
 ifdef::env-github[]
 :status:
 :caution-caption: :fire:
-:important-caption: :exclamation:
+:important-caption: :heavy_exclamation_mark:
 :note-caption: :information_source:
 :tip-caption: :bulb:
 :warning-caption: :warning:
