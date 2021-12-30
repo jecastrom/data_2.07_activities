@@ -1,5 +1,4 @@
 = Asciidoctor
-
 // settings:
 :idprefix:
 :idseparator: -
