@@ -1,4 +1,4 @@
-# SQL Activity 1 to 3 | 2.07
+= SQL Activity 1 to 3 | 2.07
 :sectnums:
 :toc:
 :toc-title: Activities | Description:
@@ -28,14 +28,14 @@ toc::[]
 
 
 
-## Activity:
+== Activity:
 In this activity, we will be using the `bank` database.
 
-### Find out how many cards of each type have been issued.
+=== Find out how many cards of each type have been issued.
 
-#### Find out how many customers there are by the district.
+=== Find out how many customers there are by the district.
 
-#### Find out average transaction value by type.
+=== Find out average transaction value by type.
 
 
 
