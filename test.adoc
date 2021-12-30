@@ -50,6 +50,9 @@ endif::[]
 :url-ruby: https://www.ruby-lang.org
 // images:
 :image-url-screenshot: https://cdn.jsdelivr.net/gh/asciidoctor/asciidoctor/screenshot.png
+:toc:
+:toc-title: Activities | Description:
+:toc-placement!:
 
 [NOTE]
 ====
