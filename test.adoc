@@ -54,6 +54,8 @@ endif::[]
 :toc-title: Activities | Description:
 :toc-placement!:
 
+toc::[]
+
 [NOTE]
 ====
 A sample note admonition.
