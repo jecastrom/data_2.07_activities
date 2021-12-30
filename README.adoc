@@ -68,8 +68,8 @@ In this activity, we will be using the `bank` database.
 As you might have seen in the previous query, there are 19 rows returned by this query. But there a few places where the column ``k_symbol`` is an empty string. Your task it to use a filter to remove those rows of data. After the filter gets applied, you would see that the number of rows have reduced.
 
 == Activity:
-Keep using the bank database.
 === Find the districts with more than 100 clients.
+(Keep using the bank database.)
 
 === Find the transactions (type, operation) with a mean amount greater than 10000.
 
