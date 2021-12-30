@@ -46,6 +46,7 @@ endif::[]
 :url-tilt: https://github.com/rtomayko/tilt
 :url-ruby: https://www.ruby-lang.org
 :toc:
+:toc-ref: {user-ref}/#table-of-contents
 :toc-title: Activities | Description:
 :toc-placement!:
 
