@@ -1,0 +1,83 @@
+= SQL Activity 1 to 3 | 2.07
+:toc:
+:toc-title: Lab Content
+:toc-placement!:
+ifdef::env-github[]
+:imagesdir:
+ https://gist.githubusercontent.com/path/to/gist/revision/dir/with/all/images
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+ifndef::env-github[]
+:imagesdir: ./
+endif::[]
+
+
+image::https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png[width=70]
+                                                                         
+                                                                         
+```
+```
+
+toc::[]
+
+= Activities | Description:
+
+== Activity 1:
+In this activity, we will be using the `bank` database.
+
+=== 1.- Find out how many cards of each type have been issued.
+
+=== 2.- Find out how many customers there are by the district.
+
+=== 3-- Find out average transaction value by type.
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://github.com/stars/jecastrom/lists/sql-ironhack-labs[SQL Lab intro script only]
+
+[,sql]
+----
+----
+
+
+[NOTE]
+====
+A sample note admonition.
+====
+ 
+TIP: It works!
+ 
+IMPORTANT: Asciidoctor is awesome, don't forget!
+ 
+CAUTION: Don't forget to add the `...-caption` document attributes in the header of the document on GitHub.
+ 
+WARNING: You have no reason not to use Asciidoctor.
+
+====
+- [*] checked
+- [x] also checked
+- [ ] not checked
+-     normal list item
+====
+
+
+A statement.footnote:[Clarification about this statement.]
+A bold statement.footnoteref:[disclaimer,These opinions are my own.]
+
+
+
+Back to <<Lab | Description:>>
