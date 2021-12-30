@@ -37,7 +37,7 @@ In this activity, we will be using the `bank` database.
 
 === Find out average transaction value by type.
 
-==== Find out average transaction value by type.
+=== Find out average transaction value by type.
 
 
 
