@@ -34,6 +34,7 @@ In this activity, we will be using the `bank` database.
 === 2.- Find out how many customers there are by the district.
 
 === 3-- Find out average transaction value by type.
+==== 3-- Find out average transaction value by type.
 
 
 
