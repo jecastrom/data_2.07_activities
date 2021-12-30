@@ -116,7 +116,7 @@ Asciidoctor can be executed on a JVM using {url-docs}/asciidoctorj/latest/[Ascii
 Installing an Asciidoctor processor is just the beginning of your publishing experience.
 Asciidoctor gives you access to a ecosystem of extensions and tools, ranging from add-on converters, to extended syntax, to build plugins, to integrated writing and preview environments:
 
-* {url-docs}/diagram-extension/latest/[Asciidoctor Diagram]
+* {url-docs}[Asciidoctor Diagram]
 * {url-docs}/maven-tools/latest/[Maven plugin and site module]
 * {url-gradle-plugin}[Gradle plugin]
 * {url-docs}/asciidoclet/latest/[Asciidoclet]
