@@ -15,6 +15,35 @@ endif::[]
 ifndef::env-github[]
 :imagesdir: ./
 endif::[]
+:experimental:
+:table-caption!:
+:example-caption!:
+:figure-caption!:
+:idprefix:
+:idseparator: -
+:linkattrs:
+:docref: http://asciidoctor.org/docs
+:user-ref: {docref}/user-manual
+:fontawesome-ref: http://fortawesome.github.io/Font-Awesome
+:icon-inline: {user-ref}/#inline-icons
+:icon-attribute: {user-ref}/#size-rotate-and-flip
+:video-ref: {user-ref}/#video
+:checklist-ref: {user-ref}/#checklists
+:list-marker: {user-ref}/#custom-markers
+:list-number: {user-ref}/#numbering-styles
+:imagesdir-ref: {user-ref}/#imagesdir
+:image-attributes: {user-ref}/#put-images-in-their-place
+:toc-ref: {user-ref}/#table-of-contents
+:para-ref: {user-ref}/#paragraph
+:literal-ref: {user-ref}/#literal-text-and-blocks
+:admon-ref: {user-ref}/#admonition
+:bold-ref: {user-ref}/#bold-and-italic
+:quote-ref: {user-ref}/#quotation-marks-and-apostrophes
+:sub-ref: {user-ref}/#subscript-and-superscript
+:mono-ref: {user-ref}/#monospace
+:css-ref: {user-ref}/#custom-styling-with-attributes
+:pass-ref: {user-ref}/#passthrough-macros
+:mailinglist: http://discuss.asciidoctor.org
 
 
 
