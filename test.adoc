@@ -1,5 +1,4 @@
 = Asciidoctor
-// settings:
 :idprefix:
 :idseparator: -
 :source-language: ruby
@@ -12,9 +11,7 @@ ifdef::env-github[]
 :tip-caption: :bulb:
 :warning-caption: :warning:
 endif::[]
-// Variables:
 :release-version: 2.0.16
-// URLs:
 :url-org: https://github.com/asciidoctor
 :url-repo: {url-org}/asciidoctor
 :url-asciidoctorj: {url-org}/asciidoctorj
@@ -50,6 +47,7 @@ endif::[]
 :toc:
 :toc-title: Activities | Description:
 :toc-placement!:
+
 toc::[]
 
 [NOTE]
