@@ -1,6 +1,6 @@
 = SQL Activity 1 to 3 | 2.07
-ifdef::env-github[]
 :description: This document catalogs a set of recommended practices for writing in AsciiDoc.
+ifdef::env-github[]
 :sectnums:
 :imagesdir:
  https://gist.githubusercontent.com/path/to/gist/revision/dir/with/all/images
