@@ -1,6 +1,6 @@
 = SQL Activity 1 to 3 | 2.07
 :description: SQL queries using `Aggregations` & `Window Functions`
-:1NF: Each record cell should contain a single value.
+//:1NF: Each record cell should contain a single value.
 :image-url-ironhack: https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png
 ifdef::env-github[]
 :sectnums:
@@ -88,13 +88,16 @@ toc::[]
 
 `Answer:`
 
-https://github.com/stars/jecastrom/lists/sql-ironhack-labs[Name of the script file]
+
+//url-of-the-script[display Name of the script file]
 
 ====
 ''''
 ====
 
 Back to <<Activity:>>
+
+////
 
 [,sql]
 ----
@@ -116,6 +119,7 @@ WARNING: You have no reason not to use Asciidoctor.
 
 bla bla bla the 1NF or first normal form.footnote:[{1nf}]Then wen bla bla
 
+
 ====
 - [*] checked
 - [x] also checked
@@ -129,7 +133,7 @@ RAM:: Temporarily stores information the CPU uses during operation.
 
 
 
-
+ ////
 
 
 
