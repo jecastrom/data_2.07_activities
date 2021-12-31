@@ -1,5 +1,5 @@
 = SQL Activity 1 to 3 | 2.07
-:description: This document catalogs a set of recommended practices for writing in AsciiDoc.
+:description: SQL queries using `GROUP BY` and `Window Functions`
 ifdef::env-github[]
 :sectnums:
 :imagesdir:
