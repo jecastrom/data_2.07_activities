@@ -92,7 +92,7 @@ ORDER BY
     1 DESC;
 ```
 
-image::https://user-images.githubusercontent.com/63274055/147839479-0fa51f8d-768f-4d4d-adad-f2ae785f2050.png[width=600]
+image::https://user-images.githubusercontent.com/63274055/147839479-0fa51f8d-768f-4d4d-adad-f2ae785f2050.png[width=700]
 
 * Find out average transaction value by type.
 
