@@ -48,10 +48,10 @@ Jorge Castro DAPT NOV2021
 ====
 ''''
 ====
-
+{description}
 toc::[]
 
-{description}
+
 
 == Activity:
 In this activity, we will be using the `bank` database.
