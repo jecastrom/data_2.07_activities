@@ -1,7 +1,7 @@
 = SQL Activity 1 to 3 | 2.07
 :description: SQL queries using `GROUP BY` and `Window Functions`
-:image-url-ironhack: https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png
 ifdef::env-github[]
+:image-url-ironhack: https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png
 :sectnums:
 :imagesdir:
  https://gist.githubusercontent.com/path/to/gist/revision/dir/with/all/images
