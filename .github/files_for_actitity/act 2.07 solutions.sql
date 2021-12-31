@@ -8,3 +8,19 @@ FROM
     card
 GROUP BY
     `type`;
+/*
+ Find out how many customers there are by the district.
+ */
+SELECT
+    count(*) AS number_of_clients,
+    district.a2 AS district_name
+FROM
+    `client`
+    INNER JOIN district ON `client`.district_id = district.A1
+GROUP BY
+    2
+ORDER BY
+    1 DESC;
+/*
+ 
+ */

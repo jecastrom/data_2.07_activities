@@ -79,6 +79,21 @@ image::https://user-images.githubusercontent.com/63274055/147837990-b49288f8-da2
 
 `Answer:`
 
+```sql
+SELECT
+    count(*) AS number_of_clients,
+    district.a2 AS district_name
+FROM
+    `client`
+    INNER JOIN district ON `client`.district_id = district.A1
+GROUP BY
+    2
+ORDER BY
+    1 DESC;
+```
+
+image::https://user-images.githubusercontent.com/63274055/147839479-0fa51f8d-768f-4d4d-adad-f2ae785f2050.png[width=600]
+
 * Find out average transaction value by type.
 
 `Answer:`
