@@ -98,6 +98,18 @@ image::https://user-images.githubusercontent.com/63274055/147839479-0fa51f8d-768
 
 `Answer:`
 
+```sql
+SELECT
+    floor(avg(amount)) AS average_transact_amount,
+    `type`
+FROM
+    trans
+GROUP BY
+    2;
+```
+
+image::https://user-images.githubusercontent.com/63274055/147839677-6db353ea-58f7-4b87-a106-cc01ba2404c2.png[width=700]
+
 == Activity:
 
 * As you might have seen in the previous query, there are 19 rows returned by this query. But there a few places where the column ``k_symbol`` is an empty string. Your task it to use a filter to remove those rows of data. After the filter gets applied, you would see that the number of rows have reduced.

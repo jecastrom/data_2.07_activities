@@ -22,5 +22,12 @@ GROUP BY
 ORDER BY
     1 DESC;
 /*
- 
+ Find out average transaction value by type.
  */
+SELECT
+    floor(avg(amount)) AS average_transact_amount,
+    `type`
+FROM
+    trans
+GROUP BY
+    2;
