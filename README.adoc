@@ -39,7 +39,9 @@ ifdef::env-github[]
 :toc:
 :toc-title: Content:
 :toc-placement!:
+
 image::{image-url-ironhack}[width=70]
+
 Jorge Castro DAPT NOV2021                                                         
 ====
 ''''
