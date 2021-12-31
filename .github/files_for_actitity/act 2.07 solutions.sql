@@ -47,3 +47,21 @@ WHERE
     k_symbol != ' '
 GROUP BY
     1;
+/*
+ Find the districts with more than 100 clients. (Keep using the bank database.)
+ */
+SELECT
+    count(*) AS number_of_clients,
+    district.a2 AS district_name
+FROM
+    `client`
+    INNER JOIN district ON `client`.district_id = district.A1
+GROUP BY
+    2
+HAVING
+    number_of_clients >= 100
+ORDER BY
+    1 DESC;
+/*
+ Find the transactions (type, operation) with a mean amount greater than 10000.
+ */

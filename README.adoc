@@ -65,7 +65,7 @@ toc::[]
 `Answer:`
 ```sql
 SELECT
-    count(*) AS nunber_of_cards_issued,
+    count(*) AS number_of_cards_issued,
     `type`
 FROM
     card
@@ -135,6 +135,23 @@ image::https://user-images.githubusercontent.com/63274055/147840151-f4de4b4a-010
 * Find the districts with more than 100 clients. (Keep using the bank database.)
 
 `Answer:`
+
+```sql
+SELECT
+    count(*) AS number_of_clients,
+    district.a2 AS district_name
+FROM
+    `client`
+    INNER JOIN district ON `client`.district_id = district.A1
+GROUP BY
+    2
+HAVING
+    number_of_clients >= 100
+ORDER BY
+    1 DESC;
+```
+
+image::https://user-images.githubusercontent.com/63274055/147841024-7fd35a48-087c-4e2d-83c3-7e2f104acc2e.png[width=700]
 
 
 * Find the transactions (type, operation) with a mean amount greater than 10000.
