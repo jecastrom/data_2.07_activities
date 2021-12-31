@@ -36,10 +36,6 @@ ifdef::env-github[]
 :mono-ref: {user-ref}/#monospace
 :css-ref: {user-ref}/#custom-styling-with-attributes
 :pass-ref: {user-ref}/#passthrough-macros
-endif::[]
-ifndef::env-github[]
-:imagesdir: ./
-endif::[]
 :toc:
 :toc-title: Content:
 :toc-placement!:
