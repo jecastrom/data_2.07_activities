@@ -65,3 +65,14 @@ ORDER BY
 /*
  Find the transactions (type, operation) with a mean amount greater than 10000.
  */
+SELECT
+    `type`,
+    operation,
+    floor(avg(amount)) AS average_amount
+FROM
+    trans
+GROUP BY
+    1,
+    2
+HAVING
+    average_amount > 10000;

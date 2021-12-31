@@ -158,6 +158,22 @@ image::https://user-images.githubusercontent.com/63274055/147841024-7fd35a48-087
 
 `Answer:`
 
+```sql
+SELECT
+    `type`,
+    operation,
+    floor(avg(amount)) AS average_amount
+FROM
+    trans
+GROUP BY
+    1,
+    2
+HAVING
+    average_amount > 10000;
+```
+
+image::https://user-images.githubusercontent.com/63274055/147841288-a949fc52-9145-46e1-b57c-56379f664aa3.png[width=700]
+
 
 //url-of-the-script[display Name of the script file]
 
