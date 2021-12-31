@@ -1,5 +1,6 @@
 = SQL Activity 1 to 3 | 2.07
 :description: SQL queries using `Aggregations` & `Window Functions`
+:1NF: Each record cell should contain a single value.
 :image-url-ironhack: https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png
 ifdef::env-github[]
 :sectnums:
@@ -113,6 +114,8 @@ CAUTION: Don't forget to add the `...-caption` document attributes in the header
  
 WARNING: You have no reason not to use Asciidoctor.
 
+bla bla bla the 1NF or first normal form:footnote[{1nf}]
+
 ====
 - [*] checked
 - [x] also checked
@@ -125,7 +128,7 @@ Hard drive:: Permanent storage for operating system and/or user files.
 RAM:: Temporarily stores information the CPU uses during operation.
 
 A statement.footnote:[Clarification about this statement.]
-A bold statement.footnoteref:[disclaimer,These opinions are my own.]
+
 
 
 
