@@ -1,4 +1,4 @@
-= SQL Activity 1 to 3 | 2.07
+= SQL Activity 1 to 3
 :description: SQL queries using `Aggregations` & `Window Functions`
 :1NF: Each record cell should contain a single value.
 :image-url-ironhack: https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png
@@ -96,6 +96,8 @@ https://github.com/stars/jecastrom/lists/sql-ironhack-labs[Name of the script fi
 
 Back to <<Activity:>>
 
+Back to <<SQL Activity 1 to 3>>
+
 [,sql]
 ----
 ----
@@ -127,7 +129,7 @@ CPU:: The brain of the computer.
 Hard drive:: Permanent storage for operating system and/or user files.
 RAM:: Temporarily stores information the CPU uses during operation.
 
-A statement.footnote:[Clarification about this statement.]
+
 
 
 
