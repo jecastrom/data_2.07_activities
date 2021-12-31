@@ -114,7 +114,7 @@ CAUTION: Don't forget to add the `...-caption` document attributes in the header
  
 WARNING: You have no reason not to use Asciidoctor.
 
-bla bla bla the 1NF or first normal form:footnote[{1nf}]
+bla bla bla the 1NF or first normal form:footnote:[{1nf}]
 
 ====
 - [*] checked
