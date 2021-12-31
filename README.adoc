@@ -129,5 +129,5 @@ A bold statement.footnoteref:[disclaimer,These opinions are my own.]
 
 
 
-Learn how to query <<the-bank-database, with MySQL>>.
+
 
