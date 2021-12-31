@@ -109,6 +109,6 @@ A statement.footnote:[Clarification about this statement.]
 A bold statement.footnoteref:[disclaimer,These opinions are my own.]
 
 
-
+video::https://youtu.be/xl004KsPKGE[alt]
 
 
