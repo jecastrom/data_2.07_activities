@@ -63,11 +63,11 @@ toc::[]
 
 `Answer:`
 
-** Find out how many customers there are by the district.
+* Find out how many customers there are by the district.
 
 `Answer:`
 
-** Find out average transaction value by type.
+* Find out average transaction value by type.
 
 `Answer:`
 
