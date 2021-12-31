@@ -72,7 +72,7 @@ FROM
 GROUP BY
     `type`;
 ```
-image::https://user-images.githubusercontent.com/63274055/147837861-e15b4605-1a82-435f-8430-77a08c6d4701.png[width:50]
+image::https://user-images.githubusercontent.com/63274055/147837861-e15b4605-1a82-435f-8430-77a08c6d4701.png[width:25]
 
 
 * Find out how many customers there are by the district.
