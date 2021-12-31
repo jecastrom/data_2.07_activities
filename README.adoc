@@ -96,7 +96,6 @@ https://github.com/stars/jecastrom/lists/sql-ironhack-labs[Name of the script fi
 
 Back to <<Activity:>>
 
-Back to <<SQL Activity 1 to 3>>
 
 [,sql]
 ----
