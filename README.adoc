@@ -119,7 +119,10 @@ WARNING: You have no reason not to use Asciidoctor.
 - [ ] not checked
 -     normal list item
 ====
-
+[horizontal]
+CPU:: The brain of the computer.
+Hard drive:: Permanent storage for operating system and/or user files.
+RAM:: Temporarily stores information the CPU uses during operation.
 
 A statement.footnote:[Clarification about this statement.]
 A bold statement.footnoteref:[disclaimer,These opinions are my own.]
