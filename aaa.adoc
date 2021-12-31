@@ -55,9 +55,9 @@ toc::[]
 
 
 == Activity:
-* In this activity, we will be using the `bank` database.
+* Description activity...........
 
-
+`Answer:`
 
 ** Find out how many cards of each type have been issued.
 
@@ -126,8 +126,5 @@ RAM:: Temporarily stores information the CPU uses during operation.
 
 A statement.footnote:[Clarification about this statement.]
 A bold statement.footnoteref:[disclaimer,These opinions are my own.]
-
-
-
 
 
