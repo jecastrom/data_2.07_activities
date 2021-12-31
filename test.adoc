@@ -42,18 +42,16 @@ endif::[]
 :toc-title: Activities | Description:
 :toc-placement!:
 
-
-
-
- 
-TIP: It works!
- 
-IMPORTANT: Asciidoctor is awesome, don't forget!
- 
-CAUTION: Don't forget to add the `...-caption` document attributes in the header of the document on GitHub.
- 
-WARNING: You have no reason not to use Asciidoctor.test
+image::https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png[width=70]
+Jorge Castro DAPT NOV2021                                                         
 ====
+''''
+====
+
+toc::[]
+
+
+
 
 {url-project}[Asciidoctor] is a fast, open source, Ruby-based text processor for parsing AsciiDoc(R) into a document model and converting it to output formats such as HTML 5, DocBook 5, manual pages, PDF, EPUB 3, and other formats.
 
