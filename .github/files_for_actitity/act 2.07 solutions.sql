@@ -31,3 +31,19 @@ FROM
     trans
 GROUP BY
     2;
+/*
+ As you might have seen in the previous query, there are 19 
+ rows returned by this query. But there a few places where the 
+ column ``k_symbol`` is an empty string. Your task it to use a filter 
+ to remove those rows of data. After the filter gets applied, you would 
+ see that the number of rows have reduced.
+ */
+SELECT
+    k_symbol,
+    floor(avg(amount)) AS average_transact_amount
+FROM
+    trans
+WHERE
+    k_symbol != ' '
+GROUP BY
+    1;

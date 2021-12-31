@@ -116,6 +116,21 @@ image::https://user-images.githubusercontent.com/63274055/147839677-6db353ea-58f
 
 `Answer:`
 
+```sql
+SELECT
+    k_symbol,
+    floor(avg(amount)) AS average_transact_amount
+FROM
+    trans
+WHERE
+    k_symbol != ' '
+GROUP BY
+    1;
+```
+
+image::https://user-images.githubusercontent.com/63274055/147840151-f4de4b4a-010c-43a2-9f82-98d00fd85d8c.png[width=700]
+
+
 == Activity:
 * Find the districts with more than 100 clients. (Keep using the bank database.)
 
