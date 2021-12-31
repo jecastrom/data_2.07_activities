@@ -97,11 +97,7 @@ toc::[]
 
 Back to <<Activity:>>
 
-[bp]
-====
-* hfhfhf
-* jdjdjd
-====
+
 
 ////
 
