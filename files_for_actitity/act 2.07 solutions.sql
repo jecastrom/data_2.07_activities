@@ -1,5 +1,5 @@
 /*
- Avtivity 2.07
+ Activity 2.07
  */
 /*
  ** Find out how many cards of each type have been issued.
