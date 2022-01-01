@@ -74,6 +74,10 @@ GROUP BY
 ```
 image::https://user-images.githubusercontent.com/63274055/147841361-f1183fb9-2225-4992-81f8-e12747e68e4f.png[width=600]
 
+====
+''''
+====
+
 
 * Find out how many customers there are by the district.
 
@@ -94,6 +98,10 @@ ORDER BY
 
 image::https://user-images.githubusercontent.com/63274055/147839479-0fa51f8d-768f-4d4d-adad-f2ae785f2050.png[width=700]
 
+====
+''''
+====
+
 * Find out average transaction value by type.
 
 `Answer:`
@@ -109,6 +117,10 @@ GROUP BY
 ```
 
 image::https://user-images.githubusercontent.com/63274055/147839677-6db353ea-58f7-4b87-a106-cc01ba2404c2.png[width=700]
+
+====
+''''
+====
 
 == Activity:
 
@@ -153,6 +165,11 @@ ORDER BY
 
 image::https://user-images.githubusercontent.com/63274055/147841024-7fd35a48-087c-4e2d-83c3-7e2f104acc2e.png[width=700]
 
+====
+''''
+====
+
+
 
 * Find the transactions (type, operation) with a mean amount greater than 10000.
 
@@ -175,7 +192,7 @@ HAVING
 image::https://user-images.githubusercontent.com/63274055/147841288-a949fc52-9145-46e1-b57c-56379f664aa3.png[width=700]
 
 
-//url-of-the-script[display Name of the script file]
+url-of-the-script[Activity 2.07 Solutions script only]
 
 ====
 ''''
