@@ -121,9 +121,7 @@ GROUP BY
 
 image::https://user-images.githubusercontent.com/63274055/147839677-6db353ea-58f7-4b87-a106-cc01ba2404c2.png[width=700]
 
-====
-''''
-====
+
 
 == Activity:
 
