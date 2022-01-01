@@ -44,6 +44,7 @@ endif::[]
 ifndef::env-github[]
 :imagesdir: ./
 endif::[]
+
 image::{image-url-ironhack}[width=70]
 
 {my-name}
