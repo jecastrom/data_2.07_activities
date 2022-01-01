@@ -1,4 +1,5 @@
 = SQL Activity 1 to 3 | 2.07
+:image-url-ironhack: https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png
 :my-name: Jorge Castro DAPT NOV2021
 :description: SQL queries Activities
 :script-url: https://github.com/jecastrom/data_2.07_activities/blob/7abfb6a0375c2c4ad3021f3f9a388a495142e1a8/files_for_actitity/act%202.07%20solutions.sql
@@ -7,7 +8,6 @@
 :toc-placement!:
 //:1NF: Each record cell should contain a single value.
 ifdef::env-github[]
-:image-url-ironhack: https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png
 :sectnums:
 :tip-caption: :bulb:
 :note-caption: :information_source:
